@@ -15,7 +15,6 @@ function clickCell(event) {
     }
 };
 
-
 // Generate pixel grid on submit event
 function makeGrid(event) {
     // Width value from form
