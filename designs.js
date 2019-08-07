@@ -24,7 +24,7 @@ function makeGrid(event) {
     // Prevent default action
     event.preventDefault();
     // Initialize the pixelCanvas
-    pixelCanvas.innetHTML = "";
+    pixelCanvas.innerHTML = "";
     // Build canvas from input width and height values
     for (let r = 0; r < inputHeight; r++) {
         let row = document.createElement('TR');
