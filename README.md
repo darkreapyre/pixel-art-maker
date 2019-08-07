@@ -28,4 +28,4 @@ This repository is based on the the starter [code](https://github.com/udacity/pr
 
 ## License
 
-This project is under the MIT License (See the [LICENSE](LICENSE.md) for more details.)
+This project is under the MIT License (See the [LICENSE](LICENSE.md) for more details).
